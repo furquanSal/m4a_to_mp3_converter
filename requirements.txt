@@ -1,0 +1,5 @@
+streamlit
+pydub
+streamlit_lottie
+requests
+ffmpeg-python
